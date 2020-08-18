@@ -179,3 +179,5 @@ elif w == 6:
         print("Der Tag ist ein Samstag")
 else:
   print("Ein Fehler ist aufgetreten (Fehlernummer: 189)")
+
+print("")
